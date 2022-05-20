@@ -1,0 +1,3 @@
+abca9w1012w188
+najprv prejdem textom a najdem rozne znaky potom huf2man mi spravi dictionary 
+potom odznova prechazdam subor aby som zmenil znaky na 0 a 1 a potom dam run length a potom zapisem
